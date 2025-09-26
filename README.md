@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <img alt="tea secrets" src="">
+    <img align="center" width="269" height="269" alt="tea" src="https://github.com/user-attachments/assets/7718379f-7de7-457f-92cb-04dadeddc75e" />
   </picture>
-  <h2 align="center">Tea</h2>
+  <h2 align="center">Project Tea</h2>
   <p align="center">Scan your workspace for secrets!</p>
 </p>
 
